@@ -14,6 +14,7 @@ This is a project that we make for keep contain the list of what people have to 
 ### if you press Remove schedule:
 5. Please write a name/title of plan when you want to remove from list.
 
+
 6. When you did every thing, and nothing to add/remove to list, please press "Close" to finish the code. Even you finish the code, it sould keep the list.
 ## Features
 ・Adding/Removing plan from list by buttons
